@@ -1,6 +1,5 @@
 # Web-Scraper-using-Selenium
-
-
+dddd
 
 This repository is part of a freelancing project so i cannot post the used site/parsed data.
 
